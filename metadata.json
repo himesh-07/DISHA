@@ -1,0 +1,6 @@
+{
+  "name": "DISHA — Disaster Intelligence & Relocation Assistant",
+  "description": "Intelligent GIS-enabled disaster management decision-support platform for hazard-based Red Zones, habitation risk scoring, safe relocation carrying capacity, and actionable emergency alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
