@@ -1,6 +1,6 @@
 #  DISHA
 
-> **D**ata-driven **I**ntelligence for **S**afety, **H**azard **A**lerts — a web platform that combines weather and river-water data to give timely, easy-to-understand hazard insights.
+> **D**ata-driven **I**ntelligence for **S**afety, **H**azard **A**lerts — a web platform that combines weather & river-water data to give timely, easy-to-understand hazard insights.
 
 ![SIH 2026](https://img.shields.io/badge/SIH-2026-orange)
 ![PS](https://img.shields.io/badge/PS-260191-blue)
@@ -11,7 +11,7 @@ Live url: https://disaster-a2006.web.app/
 youtube video : https://youtu.be/XfhKxT-qzaM?feature=shared
 ## 📌 Short Description
 
-**DISHA** brings live weather forecasts and river/water-level data into a single dashboard backed by a lightweight API layer. It pulls data from **IMD**, **CWC** and **Open-Meteo**, processes it in the backend, and shows clear, actionable information to users on a fast React (Vite) frontend hosted on Firebase.
+**DISHA** brings live weather forecasts & river/water-level data into a single dashboard backed by a lightweight API layer. It pulls data from **IMD**, **CWC** & **Open-Meteo**, processes it in the backend & shows clear, actionable information to users on a fast React (Vite) frontend hosted on Firebase.
 
 ---
 
